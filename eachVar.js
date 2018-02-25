@@ -1,0 +1,1 @@
+module.exports = (target) => new Proxy(target, {get: (t, p) => t(p)})

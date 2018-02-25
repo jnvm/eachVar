@@ -1,0 +1,40 @@
+{
+  "name": "eachvar",
+  "version": "1.0.0",
+  "description": "let {each,varName,be,iterable} = eachVar(x => /* do thing */ )",
+  "main": "eachVar.js",
+  "scripts": {
+    "test": "node eachVar.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jnvm/eachvar.git"
+  },
+  "keywords": [
+    "each",
+    "each var",
+    "var",
+    "let",
+    "const",
+    "dry",
+    "don't",
+    "repeat",
+    "yourself",
+    "dryness",
+    "stutter",
+    "code",
+    "style",
+    "proxy",
+    "destructure",
+    "destructuring",
+    "terse",
+    "brief",
+    "simplify"
+  ],
+  "author": "jnvm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jnvm/eachvar/issues"
+  },
+  "homepage": "https://github.com/jnvm/eachvar#readme"
+}
