@@ -1,6 +1,6 @@
 {
   "name": "eachvar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "let {each,varName,be,iterable} = eachVar(x => /* do thing */ )",
   "main": "eachVar.js",
   "scripts": {

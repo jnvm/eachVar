@@ -2,7 +2,7 @@
 [![David](https://img.shields.io/david/jnvm/eachvar.svg?maxAge=360000)]()
 # eachVar
 
-Instead this:
+Instead of this:
 
 ```javascript
 let thing = some.operator('thing')
